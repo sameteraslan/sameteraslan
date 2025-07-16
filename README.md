@@ -1,43 +1,61 @@
+<h1 align="center">Hi there, I'm Samet Eraslan 👋</h1>
 
-### :man_technologist:
+<p align="center">
+  <a href="https://sameteraslan.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%20sameteraslan.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sameteraslan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Samet%20Eraslan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
+---
 
-### [*Check out my Portfolio.*](https://sameteraslan.github.io/)
+### 👨‍💻 About Me
 
-:mailbox:My linkedin profile: [![Linkedin Badge](https://img.shields.io/badge/-Samet%20Eraslan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sameteraslan/)
+- 🔭 I’m currently working as Rust Software Engineer
+- 🚀 I love building scalable systems, working with low-level protocols, and writing efficient code in **Rust**, **C++**, and **Python**
+- 🌐 I'm also passionate about UNIX/Linux, Embedded Systems and Asynchronous programming.
 
+---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"  title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+### 🛠️ Languages & Tools
+
+<div align="center">
   <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg"  title="rust" alt="rust" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg"  title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"  title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
 </div>
 
+---
 
+### 📊 GitHub Stats
 
-### :fire: My Stats :
+<div align="center">
 
-<div id="stats" align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=sameteraslan&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-  
-  [![Samet's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sameteraslan&theme=dark&background=000000)](https://git.io/streak-stats)
- 
-  [Samet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameteraslan&show_icons=true&theme=radical)
-  
-  
-  <br>
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameteraslan&theme=default)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sameteraslan&theme=default)
+![Samet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameteraslan&show_icons=true&theme=radical&hide_border=true)
 
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameteraslan&theme=vue)
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=sameteraslanu&theme=highcontrast&show_icons=true&count_private=true)
-  [![trophy](https://github-profile-trophy.vercel.app/?username=sameteraslan)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameteraslan&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
+---
+
+### 🏆 Achievements & Highlights
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sameteraslan&theme=onedark&margin-w=10&row=1" />
+</div>
+
+---
+
+### ✨ Summary Cards
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameteraslan&theme=vue" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameteraslan&theme=vue" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sameteraslan&theme=vue" />
+</div>
