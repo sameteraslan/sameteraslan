@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+  <a href="https://sameteraslan.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-sameteraslan.github.io-2962FF?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
   <a href="https://crates.io/users/sameteraslan" target="_blank">
     <img src="https://img.shields.io/badge/crates.io-sameteraslan-E57300?style=for-the-badge&logo=rust&logoColor=white" />
   </a>
