@@ -5,12 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://sameteraslan.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%20sameteraslan.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sameteraslan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Samet%20Eraslan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://crates.io/users/sameteraslan" target="_blank">
     <img src="https://img.shields.io/badge/crates.io-sameteraslan-E57300?style=for-the-badge&logo=rust&logoColor=white" />
   </a>
