@@ -18,7 +18,7 @@
 ### 👨‍💻 About Me
 
 - 🦀 Rust software engineer, building fast and lean libraries used from Rust, Python, JavaScript and C/C++
-- 📊 Author of **[dataviz](https://github.com/dataviz-rs/dataviz)**, a plotting library up to 50× faster than matplotlib
+- 📊 Author of **[dataviz](https://github.com/dataviz-rs/dataviz)**, a fast plotting library for Rust, Python, JavaScript and C/C++ (built with AI assistance)
 - 📡 I enjoy low-level protocols (Bluetooth, MIL-STD-1553B, binary wire formats), UNIX/Linux, embedded systems and async programming
 
 ---
@@ -35,7 +35,7 @@
 [![npm](https://img.shields.io/npm/v/dataviz-rs.svg)](https://www.npmjs.com/package/dataviz-rs)
 
 Fast plotting for Rust, Python, JavaScript and C/C++: 120+ chart types, 3D, maps,
-live windows and a grammar of graphics. Up to 50× faster than matplotlib, with a
+live windows and a grammar of graphics, benchmarked against matplotlib, with a
 matplotlib-compatible `pyplot`.
 
 <a href="https://github.com/dataviz-rs/dataviz"><img src="https://raw.githubusercontent.com/dataviz-rs/dataviz-examples/main/plot-interactive/screenshots/interactive.gif" width="100%"></a>
